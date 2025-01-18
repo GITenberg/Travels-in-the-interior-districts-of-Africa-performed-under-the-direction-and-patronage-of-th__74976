@@ -1,0 +1,48 @@
+_repo: Travels-in-the-interior-districts-of-Africa-performed-under-the-direction-and-patronage-of-th__74976
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Rennell, James
+    aliases:
+    - Rennell, J. (James)
+    - Rennell, Major (James)
+    birthdate: 1742
+    deathdate: 1830
+    gutenberg_agent_id: '56226'
+    url: http://www.gutenberg.org/2009/agents/56226
+    wikipedia: https://en.wikipedia.org/wiki/James_Rennell
+creator:
+  author:
+    agent_name: Park, Mungo
+    birthdate: 1771
+    deathdate: 1806
+    gutenberg_agent_id: '1755'
+    url: http://www.gutenberg.org/2009/agents/1755
+    wikipedia: https://en.wikipedia.org/wiki/Mungo_Park_(explorer)
+description: ''
+gutenberg_issued: '2024-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74976'
+language: en
+pgterms:marc904: https://archive.org/details/travelsininterio00park
+pgterms:marc905: 20241210233945park
+pgterms:marc906: '1799'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive/Brandeis University Libraries and the Bayerische
+  Staatsbibliothek)
+publication_note: '  $aLondon :$bBulmer and Co., $c1799.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Park, Mungo, 1771-1806 -- Travel -- Niger River Valley -- Early works to
+  1800'
+- !lcsh 'Africa, West -- Description and travel -- Early works to 1800'
+- !lcsh 'Niger River Valley -- Description and travel -- Early works to 1800'
+- !lcc 'DT'
+- GITenberg
+title: 'Travels in the interior districts of Africa: performed under the direction
+  and patronage of the African Association, in the years 1795, 1796, and 1797'
+url: http://www.gutenberg.org/ebooks/74976
