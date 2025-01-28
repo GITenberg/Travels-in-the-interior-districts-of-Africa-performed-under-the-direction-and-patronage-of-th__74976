@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '56226'
     url: http://www.gutenberg.org/2009/agents/56226
     wikipedia: https://en.wikipedia.org/wiki/James_Rennell
+covers:
+- cover_type: archival
+  image_path: 74976-h/images/cover.jpg
 creator:
   author:
     agent_name: Park, Mungo
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1755
     wikipedia: https://en.wikipedia.org/wiki/Mungo_Park_(explorer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74976#Travels-in-the-interior-districts-of-Africa-performed-under-the-direction-and-patronage-of-th_
 gutenberg_issued: '2024-12-26'
 gutenberg_type: Text
 identifiers:
